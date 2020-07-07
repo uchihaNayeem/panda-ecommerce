@@ -1,3 +1,7 @@
+
+body{
+  background-image: url(images/bg-img/backround_w.png);
+}
 .orange-bg{
   background-color: #feeae9;
   border-radius: 10px;
@@ -57,4 +61,12 @@
 .card-footer{
   background-color: white;
   border-top: none;
+}
+
+.height{
+  height: 300px;
+}
+
+footer{
+  text-align: center;
 }
